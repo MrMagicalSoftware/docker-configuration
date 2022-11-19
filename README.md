@@ -1,10 +1,11 @@
 
-<pre>
 # docker-configuration
 
 
 # How to create a docker for Angular app
 
+
+<pre>
 first step is to run :
 
 ng build 
