@@ -1,3 +1,5 @@
+
+<pre>
 # docker-configuration
 
 
@@ -35,6 +37,8 @@ How to stop container :
 
 sudo docker ps
 sudo docker stop ID_OF_CONTAINER
+
+</pre>
 
 
 
