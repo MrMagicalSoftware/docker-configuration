@@ -7,7 +7,7 @@
 
 first step is to run :
 
-ng buld 
+ng build 
 
 
 
