@@ -43,7 +43,7 @@ sudo docker stop ID_OF_CONTAINER
 
 see more here :
 https://javascript.plainenglish.io/how-to-dockerize-angular-application-3cd67e963832
-
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
 
 How to setup vnc server on rasberry pi - Linux
 
