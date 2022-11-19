@@ -46,6 +46,10 @@ https://javascript.plainenglish.io/how-to-dockerize-angular-application-3cd67e96
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
 https://phoenixnap.com/kb/docker-portainer-install
 
+Eclipse :
+https://stackoverflow.com/questions/18589590/eclipse-autocomplete-change-variable-names
+
+
 How to setup vnc server on rasberry pi - Linux
 
 sudo apt-get update
