@@ -59,5 +59,11 @@ sudo apt-get install xrdp
 
 port forwarding 3389
 
+# Dockerize Java + mySql
+
+https://www.javainuse.com/devOps/docker/docker-mysql
+
+
+
 
 
