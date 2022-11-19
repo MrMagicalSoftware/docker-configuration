@@ -41,5 +41,14 @@ sudo docker stop ID_OF_CONTAINER
 
 </pre>
 
+How to setup vnc server on rasberry pi - Linux
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install xrdp
+
+
+port forwarding 3389
+
 
 
