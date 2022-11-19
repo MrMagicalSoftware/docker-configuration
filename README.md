@@ -41,6 +41,10 @@ sudo docker stop ID_OF_CONTAINER
 
 </pre>
 
+see more here :
+https://javascript.plainenglish.io/how-to-dockerize-angular-application-3cd67e963832
+
+
 How to setup vnc server on rasberry pi - Linux
 
 sudo apt-get update
