@@ -26,7 +26,7 @@ COPY --from=node /app/dist/app/ /usr/share/nginx/html
 
 Third Step :
 
-sudo docker build - t app .
+sudo docker build -t app .
 
 
 How to Run :
