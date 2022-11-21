@@ -31,7 +31,7 @@ sudo docker build -t app .
 
 How to Run :
 
-sudo docker run -dp: 80:80 app
+sudo docker run -dp 80:80 app
 
 
 How to stop container :
