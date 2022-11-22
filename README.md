@@ -10,6 +10,8 @@ first step is to run :
 
 ng build 
 
+# ANGULAR BINDING PORT 
+ng serve --host 0.0.0.0 --port 4201
 
 
 Second Step :
