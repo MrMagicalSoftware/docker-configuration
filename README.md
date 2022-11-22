@@ -67,6 +67,8 @@ https://www.javainuse.com/devOps/docker/docker-mysql
 
 https://spring.io/guides/gs/spring-boot-docker/
 
+> JAVA COMPILE FILE
+mvnw clean package
 
 
 
