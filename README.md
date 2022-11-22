@@ -70,6 +70,8 @@ https://spring.io/guides/gs/spring-boot-docker/
 > JAVA COMPILE FILE
 mvnw clean package
 
+jdbc Connector :
+jdbc:mysql://[hostname]:[port]/[databaseName]?enabledTLSProtocols=TLSv1.2
 
 
 
